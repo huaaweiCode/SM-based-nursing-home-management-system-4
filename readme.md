@@ -33,40 +33,38 @@
 
 ### 4.1 登录
 
-![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309271525683.jpg)
+![登录](https://s2.loli.net/2023/09/29/ufnGgN1SUIRkK7s.jpg)
 
 ### 4.2护工 模块
 
-![护工-后台界面](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309271525609.jpg)
+![护工-后台界面](https://s2.loli.net/2023/09/29/zIHjiGrRvtXCkgl.jpg)
 
 ### 4.3 家属模块
 
-![家属-后台界面](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309271525265.jpg)
+![家属-后台界面](https://s2.loli.net/2023/09/29/B7wmYAWDhIz6PR1.jpg)
 
 ### 4.4 管理员模块
 
-![管理员-护工管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309271525443.jpg)
+![管理员-护工管理](https://s2.loli.net/2023/09/29/h6Jg8iOjPpYBAcm.jpg)
 
-![管理员-发放工资](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309271525002.jpg)
+![管理员-发放工资](https://s2.loli.net/2023/09/29/H93uSb7srApOkox.jpg)
 
-![管理员-财务统计管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309271526989.jpg)
+![管理员-财务统计管理](https://s2.loli.net/2023/09/29/y3XLRFeBo7xiWJ5.jpg)
 
-![管理员-家属管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309271525023.jpg)
+![管理员-家属管理](https://s2.loli.net/2023/09/29/pLMSKhtmDbRjIYn.jpg)
 
+![管理员-楼房管理](https://s2.loli.net/2023/09/29/oNsMaZnHFt27QyW.jpg)
 
+![管理员-床位管理](https://s2.loli.net/2023/09/29/N9fI3rD4UnWPx1A.jpg)
 
-![管理员-楼房管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309271525921.jpg)
+![管理员-老人管理](https://s2.loli.net/2023/09/29/JA8s7T1K2Vn9XYH.jpg)
 
-![管理员-床位管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309271525321.jpg)
+![管理员-外出管理](https://s2.loli.net/2023/09/29/9SZ6qw4IdApPUaj.jpg)
 
-![管理员-老人管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309271526396.jpg)
+![管理员-身体情况管理](https://s2.loli.net/2023/09/29/NIivLEJClBp2TrR.jpg)
 
-![管理员-外出管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309271526708.jpg)
+### 获取方式&视频演示
 
-![管理员-身体情况管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309271526595.jpg)
+下方扫一下，回复关键词：养老院
 
-## 获取方式
-
-扫描下方，回复关键词  ：**养老院** ，获取完整版源码
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+![gitee](https://s2.loli.net/2023/09/29/51jRUuCt8zqGFDc.png)
